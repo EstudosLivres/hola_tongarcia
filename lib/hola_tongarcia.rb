@@ -1,5 +1,5 @@
-require "hola_tongarcia/version"
-
-module HolaTongarcia
-  # Your code goes here...
+class HolaTongarcia
+  def self.hi
+    puts "Hello world!"
+  end
 end

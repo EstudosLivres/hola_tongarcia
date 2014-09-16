@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = HolaTongarcia::VERSION
   spec.authors       = ["Ilton Garcia"]
   spec.email         = ["ilton_unb@hotmail.com"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
+  spec.summary       = 'Just a print hola Gem'
+  spec.description   = 'Just a print hola Gem, just studying how does it work.'
   spec.homepage      = ""
   spec.license       = "MIT"
 
